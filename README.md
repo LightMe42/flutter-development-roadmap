@@ -8,7 +8,7 @@
 
 <img src="docs/flutter-app-development-roadmap-by-tarikul.png" />
 
-## User Interface
+##☑️ User Interface
 	- [ ] Widgets
 		- [ ] statefull widget
 		- [ ] stateless widget
@@ -26,18 +26,18 @@
 		- [ ] audio
 		- [ ] video
 
-## Static User Interface
+##☑️ Static User Interface
 	- [ ] View
 		- [ ] Text,Image,button raised button etc
 	- [ ] ViewGroup
 		- [ ] Container, Row, Column, Stack, Expanded, ConstrainedBox
 
-## Dynamic User Interface
+##☑️ Dynamic User Interface
 	- [ ] ListView 
 	- [ ] GridView
 	- [ ] ExpansionTitle
 
-## Animation
+##☑️ Animation
 	- [ ] AnimatedWidget
 	- [ ] AnimatedBuilder
 	- [ ] AnimationController
@@ -46,12 +46,12 @@
 	- [ ] Transform
 	- [ ] Opacity
 
-## Sotrage
+##☑️ Sotrage
 	- [ ] shared preference
 	- [ ] file storage
 	- [ ] sqlite
 
-## 3rd party libararies 
+##☑️ 3rd party libararies 
 	- [ ] http
 	- [ ] dio
 	- [ ] get_it
@@ -62,7 +62,7 @@
 	- [ ]  rxdart
 	- [ ] bloc_pattern
 
-## Behavior Components
+##☑️ Behavior Components
 	- [ ] Permission
 	- [ ] Local Notification
 	- [ ] Push Notification
@@ -71,14 +71,14 @@
 	- [ ] Preference
 	- [ ] Sharing 
 
-## State management
+##☑️ State management
 	- [ ] setState
 	- [ ] Provider
 	- [ ] Redux
 	- [ ] BLoC
 	- [ ] MobX
 
-## Quality Assurance 
+##☑️ Quality Assurance 
 	- [ ] Firebase
 		- [ ] Crashlytics
 		- [ ] App distribution
@@ -87,19 +87,19 @@
 	- [ ] TestFlight
 	- [ ] App Center
 
-## Version Control 
+##☑️ Version Control 
 	- [ ] Git
 	- [ ] Github
 	- [ ] Bitbucket
 	- [ ] Gitlab
 
-## Firebase
+##☑️ Firebase
 	- [ ] Firebase Auth
 	- [ ] Firebase database
 	- [ ] Firebase Storage
 	- [ ] Firebase Messaging
 
-## Native Integration 
+##☑️ Native Integration 
 	- [ ] Android 
 		- [ ] Android Studio
 		- [ ] Java
